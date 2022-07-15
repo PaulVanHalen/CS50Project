@@ -1,0 +1,25 @@
+
+img {
+    padding: 20px;
+    text-align: center;
+}
+
+form {
+    padding: 5px;
+}
+
+.buttons {
+    border: 1px solid #303134;
+    border-radius: 4px;
+    background-color: #303134;
+    color: white;
+    line-height: 27px;
+    height: 26px;
+    min-width: 34px;
+    padding: 0px 16px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    margin: 11px 4px;
+}
