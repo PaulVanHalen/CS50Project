@@ -1,3 +1,2 @@
-# CS50Project
-My Portfolio-Project
-Todo el desarrollo se presentará en diagramas y demás documentación.
+# CS50Proyect
+CS50 Harvard

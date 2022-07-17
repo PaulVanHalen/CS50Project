@@ -1,8 +1,4 @@
 
-img {
-    padding: 20px;
-    text-align: center;
-}
 
 form {
     padding: 5px;
@@ -22,4 +18,20 @@ form {
     display: inline-block;
     font-size: 12px;
     margin: 11px 4px;
+}
+
+*{
+    text-align:center;
+}
+
+a {
+    float:inline-end;
+    color:white;
+    text-decoration: none;
+}
+
+
+img {
+    padding: 20px;
+    text-align: center;
 }
