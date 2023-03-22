@@ -3,6 +3,7 @@ body{
 }
 
 img {
+    margin: 60px 40px 0px;
     padding: 10px;
     text-align: center;
     width: 400px;
@@ -13,11 +14,23 @@ form {
     padding: 5px;
 }
 
-.buttons {
+input {
+    margin: 5px;
+    padding-top: 18px;
+}
 
-    border: 1px solid #303134;
+.tx{
+    width: 560px;
+    height: 13px;
+    padding: 14px 5px 8px;
+    border-radius: 15px;
+}
+
+.st {
+
+    border: 1px solid #1b1b1b;
     border-radius: 4px;
-    background-color: #303134;
+    background-color: #1b1b1b63;
     color: white;
     line-height: 27px;
     height: 26px;
@@ -30,6 +43,23 @@ form {
     margin: 11px 4px;
 }
 
+/*.buttons {
+
+    border: 1px solid #1b1b1b;
+    border-radius: 4px;
+    background-color: #1b1b1b63;
+    color: white;
+    line-height: 27px;
+    height: 26px;
+    min-width: 34px;
+    padding: 0px 16px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    margin: 11px 4px;
+}*/
+
 *{
     text-align:center;
 }
@@ -40,9 +70,6 @@ a {
     text-decoration: none;
 }
 
-
-
-
 header{
     text-align: right;
 }
@@ -52,3 +79,8 @@ header{
     font-size: 11px;
     padding: 5px;
 }
+
+a:hover, .submit {
+    color:white;
+}
+
